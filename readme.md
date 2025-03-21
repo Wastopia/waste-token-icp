@@ -2,7 +2,7 @@
 
 Ledger Canister ID: [zozfm-uaaaa-aaaaj-qnfkq-cai](https://dashboard.internetcomputer.org/canister/zozfm-uaaaa-aaaaj-qnfkq-cai)
 
-Index Canister ID: [za3ie-pqaaa-aaaaj-qnflq-cai](https://dashboard.internetcomputer.org/canister/za3ie-pqaaa-aaaaj-qnflq-cai)
+Index Canister ID: [mb47j-3aaaa-aaaaj-qnnka-cai](https://dashboard.internetcomputer.org/canister/mb47j-3aaaa-aaaaj-qnnka-cai)
 
 
 ## Overview
